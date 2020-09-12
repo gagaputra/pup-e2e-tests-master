@@ -58,7 +58,7 @@
     "meteor-node-stubs": "^0.3.3",
     "moment": "^2.22.1",
     "moment-timezone": "^0.5.16",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "polished": "^1.9.2",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
